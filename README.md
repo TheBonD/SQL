@@ -43,7 +43,9 @@ function test() {
   console.log("notice the blank line before this function?");
 }
 ```
-
+- {+ Just regular text +}
+- {+ Text with `backticks` inside +}
+- {+ Text with escaped \`backticks\` inside +}
 
 
 
