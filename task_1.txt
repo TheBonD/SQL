@@ -1,3 +1,4 @@
+![alt text](https://i.imgur.com/3oHRH3b.png "Схема базы данных")
 Вывести имена всех когда-либо обслуживаемых пассажиров авиакомпаний
 
 SELECT name FROM Passenger
