@@ -5,4 +5,4 @@ Pass_in_trip(id,trip,passenger,place);
 Trip (id,company,plane,town_from,town_to,time_out,time_in).
 
 Вывести имена всех когда-либо обслуживаемых пассажиров авиакомпаний: 
-SELECT name FROM Passenger
+`SELECT name FROM Passenger`
