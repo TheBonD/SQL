@@ -13,8 +13,10 @@ require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
+[[_TOC_]]
 - {+ addition 1 +}
 - [+ addition 2 +]
 - {- deletion 3 -}
 - [- deletion 4 -]
 - {+ Just regular text +}
+[[_TOC_]]
