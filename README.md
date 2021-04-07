@@ -17,3 +17,4 @@ puts markdown.to_html
 - [+ addition 2 +]
 - {- deletion 3 -}
 - [- deletion 4 -]
+- {+ Just regular text +}
