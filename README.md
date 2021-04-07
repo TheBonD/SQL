@@ -1,6 +1,8 @@
 - {+ В данном репозитории Вы можете увидеть решения задач по SQL +} :smile:
 
 
+
+
 - {+ Just regular text +}
 - {+ Text with `backticks` inside +}
 - {+ Text with escaped \`backticks\` inside +}
@@ -41,3 +43,20 @@ function test() {
   console.log("notice the blank line before this function?");
 }
 ```
+
+
+
+
+
+- {+ addition +]
+- [+ addition +}
+- {- deletion -]
+- [- deletion -}
+
+
+
+
+
+
+
+
