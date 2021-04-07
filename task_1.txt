@@ -1,5 +1,5 @@
 Таблицы БД:
-Company (id,name) ;
+Company (id,name);
 Passenger (id,name);
 Pass_in_trip(id,trip,passenger,place);
 Trip (id,company,plane,town_from,town_to,time_out,time_in).
