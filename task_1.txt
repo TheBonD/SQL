@@ -6,3 +6,4 @@ Trip (id,company,plane,town_from,town_to,time_out,time_in).
 
 Вывести имена всех когда-либо обслуживаемых пассажиров авиакомпаний: 
 SELECT name FROM Passenger
+HEX: `#RGB[A]` or `#RRGGBB[AA]`
