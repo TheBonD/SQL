@@ -1,5 +1,10 @@
 - {+ В данном репозитории Вы можете увидеть решения задач по SQL +} :smile:
-- {+ addition 1 +}
+
+
+- {+ Just regular text +}
+- {+ Text with `backticks` inside +}
+- {+ Text with escaped \`backticks\` inside +}
+
 
 
 
