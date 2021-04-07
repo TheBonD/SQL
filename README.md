@@ -3,7 +3,7 @@
 
 
 
-- {+ Just regular text +}
+> - {+ Just regular text +}
 - {+ Text with `backticks` inside +}
 - {+ Text with escaped \`backticks\` inside +}
 
