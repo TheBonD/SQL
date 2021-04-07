@@ -1,3 +1,15 @@
-Вывести имена всех когда-либо обслуживаемых пассажиров авиакомпаний
+Таблицы БД:
+Company (id,name);
+Passenger (id,name);
+Pass_in_trip(id,trip,passenger,place);
+Trip (id,company,plane,town_from,town_to,time_out,time_in).
 
+Вывести имена всех когда-либо обслуживаемых пассажиров авиакомпаний: 
 SELECT name FROM Passenger
+HEX: `#RGB[A]` or `#RRGGBB[AA]`
+
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
