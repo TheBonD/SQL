@@ -1,12 +1,71 @@
-- {+ В данном репозитории Вы можете увидеть решения задач по SQL +} :smile:
+ ## В данном репозитории Вы можете увидеть решения задач по SQL
 
 
 
 
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=TheBonD&show_icons=true&theme=dracula&hide=stars,issues,contribs&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+
+
+![Anurag's GitHubstats](https://github-readme-stats.vercel.app/api?username=TheBonD&show_icons=true&theme=flag-india&locale=ru&langs_count=2&hide=stars,issues,contribs)
+
+**bold**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?Username=anuraghazra&repo=github-readme-stats)] (https://github.com/anuraghazra/github- readme-stats)
+
+
+<a href="https://github.com/TheBonD/SQL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheBonD&repo=SQL" />
+</a>
+<a href="https://github.com/TheBonD/SQL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheBonD&repo=SQL" />
+</a>
+   
+ 
+   >
+
+**bold**
+
+
+## Tools
+![GIT](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GITHUB](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+
+https://starchart.cc/{TheBonD}/{repo}.svg
+
+
+
+# h1
+## h2
+### h3
+#### h4
+##### h5
+###### h6
+#### h4
+
+**bold**
+*italic*
+***bold italic***
+_italic too_
+
+**Можно использовать _курсив_ внутри жирного текста.**
+Можно использовать `light-code` внутри строки
+
+```
+code block
+```
+
+```php
+//sql code
+$foo = new BarClass();
+```
 > - {+ Just regular text +}
-- {+ Text with `backticks` inside +}
-- {+ Text with escaped \`backticks\` inside +}
-
+>- {+ Text with `backticks` inside +}
+>- {+ Text with escaped \`backticks\` inside +}
+ффыфЫ
 
 
 
