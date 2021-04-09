@@ -1,3 +1,10 @@
- ### В данном репозитории Вы можете увидеть решения задач по SQL
 
- ![]( https://banner2.cleanpng.com/20180526/oqt/kisspng-microsoft-sql-server-mysql-database-logo-5b098c6ebad6d7.7316225815273524307653.jpg)
+<div align="center" > <H2>
+ В данном репозитории Вы можете увидеть решения задач по SQL
+</div><H2>
+
+
+
+
+ ![]( https://i.pinimg.com/originals/07/c3/b0/07c3b0e6ea63ce6546a031270476763f.jpg)
+
