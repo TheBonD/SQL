@@ -1,5 +1,5 @@
-   ## Схема БД:
-<br> 
+
+<center><h2>Схема БД:</center></h2> 
 
 ![](https://i.imgur.com/3oHRH3b.png)
 
