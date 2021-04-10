@@ -5,3 +5,8 @@
 <p align="center">
   <img src="https://proselyte.net/wp-content/uploads/2016/05/Introduction-to-SQL.png" />
 </p>
+
+
+<p align="center">
+  Lorem ipsum
+</p>
