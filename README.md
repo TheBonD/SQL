@@ -4,6 +4,8 @@
 <br> 
 
  ![SQL Logo]( https://proselyte.net/wp-content/uploads/2016/05/Introduction-to-SQL.png)
+<br> 
 
-
- <img style="float: right;" src="https://proselyte.net/wp-content/uploads/2016/05/Introduction-to-SQL.png">
+<p align="center">
+  <img src="https://proselyte.net/wp-content/uploads/2016/05/Introduction-to-SQL.png" />
+</p>
