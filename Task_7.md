@@ -15,6 +15,6 @@
 ```
 
 ```SQL
-SELECT DISTINCT  plane from Trip WHERE town_to Like '%Moscow'
+SELECT DISTINCT plane from Trip WHERE town_to Like '%Moscow'
 ```
 
