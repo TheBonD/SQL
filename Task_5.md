@@ -10,10 +10,11 @@
 
 
 ```
-Задание:Вывести количество рейсов, совершенных на TU-134
+Задание:Какие компании совершали перелеты на Boeing
+
 ```
 
 ```SQL
-SELECT COUNT(plane) as count FROM Trip WHERE plane = "TU-134"
+SELECT DISTINCT Company.name FROM Trip INNER JOIN Company on Trip.company = Company.id WHERE plane = "Boeing";
 ```
 
