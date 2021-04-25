@@ -39,7 +39,7 @@ Select good FROM Payments WHERE unit_price>2000
 ```
 
 ```SQL
-SELECT member_name FROM FamilyMembers WHERE status='father'
+SELECT member_name FROM FamilyMembers WHERE status IN ('father')
 
 ```
 ```
