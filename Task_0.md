@@ -43,11 +43,11 @@ SELECT member_name FROM FamilyMembers WHERE status='father'
 
 ```
 ```
-Задание:
+Задание:Выведите имя (поле member_name) и дату рождения (поле birthday) членов семьи из таблицы FamilyMembers, чей статус (поле status) равен "father" или "mother".
 ```
 
 ```SQL
-
+SELECT  member_name,birthday FROM FamilyMembers WHERE status IN ('father','mother') 
 
 ```
 ```
