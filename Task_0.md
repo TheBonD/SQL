@@ -51,11 +51,12 @@ SELECT  member_name,birthday FROM FamilyMembers WHERE status IN ('father','mothe
 
 ```
 ```
-Задание:
+Задание:Необходимо получить все комнаты, в которых есть как кухня (поле has_kitchen), так и интернет (поле has_internet). Напишите запрос, удовлетворяющий вышеописанному условию, который выводит все поля из таблицы Rooms.
+Наличие обозначается 1 или true, а отсутствие 0 или false.
 ```
 
 ```SQL
-
+SELECT *  FROM Rooms WHERE has_kitchen and has_internet
 
 ```
 ```
