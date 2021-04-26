@@ -56,7 +56,7 @@ SELECT  member_name,birthday FROM FamilyMembers WHERE status IN ('father','mothe
 ```
 
 ```SQL
-SELECT *  FROM Rooms WHERE has_kitchen and has_internet
+SELECT *  FROM Rooms WHERE has_kitchen=true and has_internet=true
 
 ```
 ```
