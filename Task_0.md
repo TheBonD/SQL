@@ -60,11 +60,11 @@ SELECT *  FROM Rooms WHERE has_kitchen=true and has_internet=true
 
 ```
 ```
-Задание:
+Задание:Выведите резервации комнат (поля room_id, start_date, end_date) из таблицы Reservations, у которых итоговая стоимость аренды (поле total) находится в промежутке от 500 до 1200 включительно.
 ```
 
 ```SQL
-
+SELECT room_id, start_date, end_date FROM Reservations WHERE total BETWEEN 500 AND 1200 ;
 
 ```
 ```
