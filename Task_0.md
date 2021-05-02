@@ -68,12 +68,13 @@ SELECT room_id, start_date, end_date FROM Reservations WHERE total BETWEEN 500 A
 
 ```
 ```
-Задание:Для каждого отдельного платежа выведите идентификатор товара и сумму, потраченную на него, в отсортированном по убыванию этой суммы виде. Список платежей находится в таблице Payments.
-Для вывода суммы используйте псевдоним sum.
+Выведите список членов семьи с фамилией Quincey, в отсортированном по возрастанию столбцам status и member_name виде.
 ```
 
 ```SQL
-
+Select * From Familymembers
+Where member_name Like '%Quincey'
+ORDER BY status,member_name ASC
 
 ```
 ```
